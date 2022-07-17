@@ -1,0 +1,15 @@
+/Users/rasih/Projects/sw-design-patterns/creational-sw-design-patterns/factory-method/bin/Debug/net6.0/FactoryMethod
+/Users/rasih/Projects/sw-design-patterns/creational-sw-design-patterns/factory-method/bin/Debug/net6.0/FactoryMethod.deps.json
+/Users/rasih/Projects/sw-design-patterns/creational-sw-design-patterns/factory-method/bin/Debug/net6.0/FactoryMethod.runtimeconfig.json
+/Users/rasih/Projects/sw-design-patterns/creational-sw-design-patterns/factory-method/bin/Debug/net6.0/FactoryMethod.dll
+/Users/rasih/Projects/sw-design-patterns/creational-sw-design-patterns/factory-method/bin/Debug/net6.0/FactoryMethod.pdb
+/Users/rasih/Projects/sw-design-patterns/creational-sw-design-patterns/factory-method/obj/Debug/net6.0/FactoryMethod.csproj.AssemblyReference.cache
+/Users/rasih/Projects/sw-design-patterns/creational-sw-design-patterns/factory-method/obj/Debug/net6.0/FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rasih/Projects/sw-design-patterns/creational-sw-design-patterns/factory-method/obj/Debug/net6.0/FactoryMethod.AssemblyInfoInputs.cache
+/Users/rasih/Projects/sw-design-patterns/creational-sw-design-patterns/factory-method/obj/Debug/net6.0/FactoryMethod.AssemblyInfo.cs
+/Users/rasih/Projects/sw-design-patterns/creational-sw-design-patterns/factory-method/obj/Debug/net6.0/FactoryMethod.csproj.CoreCompileInputs.cache
+/Users/rasih/Projects/sw-design-patterns/creational-sw-design-patterns/factory-method/obj/Debug/net6.0/FactoryMethod.dll
+/Users/rasih/Projects/sw-design-patterns/creational-sw-design-patterns/factory-method/obj/Debug/net6.0/refint/FactoryMethod.dll
+/Users/rasih/Projects/sw-design-patterns/creational-sw-design-patterns/factory-method/obj/Debug/net6.0/FactoryMethod.pdb
+/Users/rasih/Projects/sw-design-patterns/creational-sw-design-patterns/factory-method/obj/Debug/net6.0/FactoryMethod.genruntimeconfig.cache
+/Users/rasih/Projects/sw-design-patterns/creational-sw-design-patterns/factory-method/obj/Debug/net6.0/ref/FactoryMethod.dll
